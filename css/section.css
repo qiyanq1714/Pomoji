@@ -1,0 +1,23 @@
+
+table{
+    border:1px solid rgb(66, 64, 127);
+    font-size: 10point;
+    color:#5C5C5C;
+    border-collapse: collapse;
+    
+}
+th,td,tr{
+    border:1px solid rgb(66, 64, 127);
+    background-color: rgb(206, 197, 228);
+    
+}
+
+th{
+   background-color:rgb(162, 154, 183);
+}
+.chp{
+    color:#FCFCFC;
+}
+p{
+    color:#5C5C5C;
+}
